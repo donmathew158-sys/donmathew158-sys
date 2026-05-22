@@ -39,3 +39,10 @@ Generate optimized prompts for ChatGPT, Claude, Gemini, DeepSeek, and more — i
 * 📷 Instagram: https://instagram.com/don_mathew_x
 
 ⚡ Open to collaborations, freelance work, and AI projects!
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,mysql,git,vscode" />
+
+</div>
