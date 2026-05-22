@@ -12,6 +12,11 @@ I'm passionate about building AI tools that help people work smarter and automat
 * 💻 HTML & C++
 * 🗄️ MySQL
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,mysql,git,vscode" />
+
+</div>
 
  🚀 Projects
 
@@ -41,8 +46,4 @@ Generate optimized prompts for ChatGPT, Claude, Gemini, DeepSeek, and more — i
 ⚡ Open to collaborations, freelance work, and AI projects!
 # 🛠️ Tech Stack
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,mysql,git,vscode" />
-
-</div>
