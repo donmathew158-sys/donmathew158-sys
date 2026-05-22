@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Don Mathew
 
-<!--
-**donmathew158-sys/donmathew158-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Developer | Automation Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I'm passionate about building AI tools that help people work smarter and automate tasks efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* 🐍 Python
+* 🌐 Streamlit
+* 🤖 LangChain
+* 💻 HTML & C++
+* 🗄️ MySQL
+
+
+ 🚀 Projects
+
+ 📚 Study Assistant AI
+
+My first AI project — designed to help students study smarter and faster.
+
+🤖 Multi-AI Chatbot
+
+A chatbot that runs multiple AI models simultaneously to generate the best possible response and codes.
+
+ ⭐ SuperPrompt AI
+
+Generate optimized prompts for ChatGPT, Claude, Gemini, DeepSeek, and more — including prompt quality scoring.
+
+ 🔭 Currently Working On
+
+* A new AI project (coming soon)
+* Expanding my programming knowledge
+* Improving AI automation systems
+
+ 📫 Connect With Me
+
+* 💼 Fiverr: https://www.fiverr.com/s/yvkBdqZ
+* 📷 Instagram: https://instagram.com/don_mathew_x
+
+⚡ Open to collaborations, freelance work, and AI projects!
