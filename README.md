@@ -40,7 +40,7 @@ Generate optimized prompts for ChatGPT, Claude, Gemini, DeepSeek, and more — i
 
  📫 Connect With Me
 
-* 💼 Fiverr: https://www.fiverr.com/s/yvkBdqZ
+
 * 📷 Instagram: https://instagram.com/don_mathew_x
 
 ⚡ Open to collaborations, freelance work, and AI projects!
